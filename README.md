@@ -9,7 +9,7 @@
 # Hi, I´m Joaquin 👋
 - 👨‍💻 Full-Stack Developer
 - 🎓 Studying System Engineering
-- 🔭 Currently working on personal proyects
+- 🔭 Currently working on personal projects
 - 🤜🤛 Team Work
 - 🌎 English (B2) | Spanish (Native)
 
