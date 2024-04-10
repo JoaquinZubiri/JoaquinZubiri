@@ -27,7 +27,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaquinZubiri&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joaquin-zubiri/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-zubiri/) 
 ---
 [![](https://visitcount.itsvg.in/api?id=JoaquinZubiri&icon=8&color=3)](https://visitcount.itsvg.in)
 
